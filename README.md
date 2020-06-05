@@ -48,7 +48,7 @@ At the end of this course, you will:
 
 **[15.  What Google Learned About Teams](#heading--15)**
 
-Happy learning by ~ Remah 
+Happy learning :heart_eyes:
 
 
 
