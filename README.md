@@ -25,11 +25,12 @@ At the end of this course, you will:
 
 **[2. BBCode formatting](#heading--2)**
 
-  * [2.1. Basic text formatting](#heading--2-1)
+  * [2.1.  HTML Text, CSS Introduction, and Basic JavaScript Instructions](#heading--2-1)
 
       * [2.1.1. Not so basic text formatting](#heading--2-1-1)
 
   * [2.2. Lists, Images, Code](#heading--2-2)
   * [2.3. Special features](#heading--2-3)
-
+**[3.](#heading--3)**
+* [3.1.  HTML Lists, CSS Boxes, JS Control Flow](#heading--3-1)
 
