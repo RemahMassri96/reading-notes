@@ -19,20 +19,33 @@ At the end of this course, you will:
 
 ###  Table Of Content 
 **[1.  Introductory HTML and JavaScript](#heading--1)**
+
 **[2. HTML Text, CSS Introduction, and Basic JavaScript Instructions](#heading--2)**
+
 **[3.HTML Lists, CSS Boxes, JS Control Flow](#heading--3)**
+
 **[4.HTML Links, CSS Layout, JS Functions](#heading--4)**
+
 **[5.HTML Images; CSS Color & Text](#heading--5)**
+
 **[6.JS Object Literals; The DOM](#heading--6)**
+
 **[7. HTML Tables; JS Constructor Functions](#heading--7)**
+
 **[8. Forms and Events](#heading--8)**
+
 **[9. More CSS Layout](#heading--9)**
+
 **[10. JS Debugging](#heading--10)**
+
 **[11. Assorted Topics](#heading--11)**
+
 **[12. Docs for the HTML](#heading--12)**
+
 **[13. Local Stoarge](#heading--13)**
+
 **[14.  CSS Transforms, Transitions, and Animations](#heading--14)**
-     * [14.1. What Google Learned About Teams](#heading--14-1)
+
 **[15.  What Google Learned About Teams](#heading--15)**
 
 
