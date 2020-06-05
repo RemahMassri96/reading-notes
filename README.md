@@ -17,7 +17,7 @@ At the end of this course, you will:
 - Write JavaScript that leverages the fundamentals of Computer Science, the Object-Oriented Programming paradigm, basic data types, data structures, and basic algorithms, so that the code is efficient, error-free, and matches commonly accepted standards and practices of syntax and style, as measured by the code’s functionality and ability to pass a code linter.
 -Utilize industry-standard version control tools and workflows, including Git and GitHub, to write functional, properly styled code and to work efficiently and harmoniously in professional environments.
 
-### Content 
+###  Table Of Content 
 **[1.  Introductory HTML and JavaScript](#heading--1)**
 **[2. HTML Text, CSS Introduction, and Basic JavaScript Instructions](#heading--2)**
 **[3.HTML Lists, CSS Boxes, JS Control Flow](#heading--3)**
