@@ -16,3 +16,7 @@ At the end of this course, you will:
 - Utilize Javascript to make web projects interactive, such that user input is stored and processed to create updated and personalized content when a user interacts with a page.
 - Write JavaScript that leverages the fundamentals of Computer Science, the Object-Oriented Programming paradigm, basic data types, data structures, and basic algorithms, so that the code is efficient, error-free, and matches commonly accepted standards and practices of syntax and style, as measured by the code’s functionality and ability to pass a code linter.
 -Utilize industry-standard version control tools and workflows, including Git and GitHub, to write functional, properly styled code and to work efficiently and harmoniously in professional environments.
+
+### Content 
+
+
