@@ -37,5 +37,7 @@ At the end of this course, you will:
 * [4.1 HTML Links, CSS Layout, JS Functions](#heading--4-1)
 **[5.](#heading--5)**
 * [5.1 HTML Images; CSS Color & Text](#heading--5-1)
+**[6.](#heading--6)**
+* [6.1 JS Object Literals; The DOM](#heading--6-1)
 
 
