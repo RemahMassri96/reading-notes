@@ -39,5 +39,6 @@ At the end of this course, you will:
 * [5.1 HTML Images; CSS Color & Text](#heading--5-1)
 **[6.](#heading--6)**
 * [6.1 JS Object Literals; The DOM](#heading--6-1)
+**[7. HTML Tables; JS Constructor Functions](#heading--7)**
 
 
