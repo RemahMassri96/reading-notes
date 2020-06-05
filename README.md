@@ -35,4 +35,7 @@ At the end of this course, you will:
 * [3.1.  HTML Lists, CSS Boxes, JS Control Flow](#heading--3-1)
 **[4.](#heading--4)**
 * [4.1 HTML Links, CSS Layout, JS Functions](#heading--4-1)
+**[5.](#heading--5)**
+* [5.1 HTML Images; CSS Color & Text](#heading--5-1)
+
 
