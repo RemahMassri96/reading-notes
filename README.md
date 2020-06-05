@@ -40,5 +40,7 @@ At the end of this course, you will:
 **[6.](#heading--6)**
 * [6.1 JS Object Literals; The DOM](#heading--6-1)
 **[7. HTML Tables; JS Constructor Functions](#heading--7)**
+**[8. Forms and Events](#heading--8)**
+
 
 
