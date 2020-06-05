@@ -26,6 +26,12 @@ At the end of this course, you will:
 **[6.JS Object Literals; The DOM](#heading--6)**
 **[7. HTML Tables; JS Constructor Functions](#heading--7)**
 **[8. Forms and Events](#heading--8)**
+**[9. More CSS Layout](#heading--9)**
+**[10. JS Debugging](#heading--10)**
+**[11. Assorted Topics](#heading--11)**
+**[12. Docs for the HTML <canvas> Element & Chart.js](#heading--12)**
+
+
 
 
 
