@@ -18,27 +18,12 @@ At the end of this course, you will:
 -Utilize industry-standard version control tools and workflows, including Git and GitHub, to write functional, properly styled code and to work efficiently and harmoniously in professional environments.
 
 ### Content 
-**[1. HTML & JS](#heading--1)**
-
-  * [1.1. Introductory HTML and JavaScript](#heading--1-1)
-  * [1.2. Markdown formatting details](#heading--1-2)
-
-**[2. BBCode formatting](#heading--2)**
-
-  * [2.1.  HTML Text, CSS Introduction, and Basic JavaScript Instructions](#heading--2-1)
-
-      * [2.1.1. Not so basic text formatting](#heading--2-1-1)
-
-  * [2.2. Lists, Images, Code](#heading--2-2)
-  * [2.3. Special features](#heading--2-3)
-**[3.](#heading--3)**
-* [3.1.  HTML Lists, CSS Boxes, JS Control Flow](#heading--3-1)
-**[4.](#heading--4)**
-* [4.1 HTML Links, CSS Layout, JS Functions](#heading--4-1)
-**[5.](#heading--5)**
-* [5.1 HTML Images; CSS Color & Text](#heading--5-1)
-**[6.](#heading--6)**
-* [6.1 JS Object Literals; The DOM](#heading--6-1)
+**[1.  Introductory HTML and JavaScript](#heading--1)**
+**[2. HTML Text, CSS Introduction, and Basic JavaScript Instructions](#heading--2)**
+**[3.HTML Lists, CSS Boxes, JS Control Flow](#heading--3)**
+**[4.HTML Links, CSS Layout, JS Functions](#heading--4)**
+**[5.HTML Images; CSS Color & Text](#heading--5)**
+**[6.JS Object Literals; The DOM](#heading--6)**
 **[7. HTML Tables; JS Constructor Functions](#heading--7)**
 **[8. Forms and Events](#heading--8)**
 
