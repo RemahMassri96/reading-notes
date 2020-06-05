@@ -30,6 +30,10 @@ At the end of this course, you will:
 **[10. JS Debugging](#heading--10)**
 **[11. Assorted Topics](#heading--11)**
 **[12. Docs for the HTML](#heading--12)**
+**[13. Local Stoarge](#heading--13)**
+**[14.  CSS Transforms, Transitions, and Animations](#heading--14)**
+     * [14.1. What Google Learned About Teams](#heading--14-1)
+**[15.  What Google Learned About Teams](#heading--15)**
 
 
 
