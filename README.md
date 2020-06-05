@@ -18,9 +18,9 @@ At the end of this course, you will:
 -Utilize industry-standard version control tools and workflows, including Git and GitHub, to write functional, properly styled code and to work efficiently and harmoniously in professional environments.
 
 ### Content 
-**[1. Markdown](#heading--1)**
+**[1. HTML & JS](#heading--1)**
 
-  * [1.1. Markdown formatting cheatsheet](#heading--1-1)
+  * [1.1. Introductory HTML and JavaScript](#heading--1-1)
   * [1.2. Markdown formatting details](#heading--1-2)
 
 **[2. BBCode formatting](#heading--2)**
