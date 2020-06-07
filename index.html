@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Our first webpage</title>
+    <style>
+      body{
+        background-color: beige;
+      }
+
+   .questions{
+    box-shadow: 5px 5px lightslategrey ;
+   }
+    </style>
+  </head>
+
+  <body>
+    <header>
+    </header>
+    <main>
+      <h1> Class 1 Lab</h1>
+      <div class="questions">
+        <p style="color: darkgreen; background-color: lightsalmon;"> What is your name? </p>
+        <p style="color: #00BF8F; background-color: #295378;">What is your favorite Editor?</p>
+        <p style="color:#4DB9E7; background-color: lightslategrey;">what is your dream ?</p>
+        <p style="color: olive; background-color: peru;"> what is your programming skills ? </p>
+      </div> 
+    </main>
+    <footer>
+    </footer>
+    <script>
+      var userName = prompt('What is your name?');
+      var favoriteEditor = prompt('What is your favorite Editor?', 'VSC');
+      var dreams = prompt('what is your dream ?');
+      var skills = prompt ('what is your programming skills ?');
+      console.log('The user entered the name ',userName);
+      console.log('The favrite editor for me ',favoriteEditor);
+      console.log('my dream' , dreams);
+      console.log('My skills', skills);
+      alert('Hi'  + userName + 'Your favorite editor is'  +  favoriteEditor +  'your dreams'+ dreams + 'Your skills'+ skills);
+    </script>
+  </body>
+</html>
