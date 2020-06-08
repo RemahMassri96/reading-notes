@@ -14,3 +14,16 @@
  - Legibility can be improved by controlling the width of boxes containing text and the leading.
  - CSS3 has introduced the ability to create image borders and rounded borders.
  
+- Comparison operators return single values of true of false.
+- Logical operators allow you to compare the results of mre than comparison operator 
+
+**IF ... ELSE** :
+- There is no need to provide an else option. (You can just use an if statement.)
+- With a series of if statements, they are all checked even if a match has been found
+(so it performs more slowly than switch).
+
+**SWITCH** :
+- You have a default option that is run if none of the cases match.
+- If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing
+better performance than multiple i f
+statements).
