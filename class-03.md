@@ -27,3 +27,6 @@
 - If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing
 better performance than multiple i f
 statements).
+- Data types can be coerced from one type to another.
+- All values evaluate to either truthy or falsy.
+- There are three types of loop: for, while, and do ... while. Each repeats a set of statements.
