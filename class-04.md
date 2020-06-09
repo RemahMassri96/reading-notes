@@ -36,5 +36,5 @@ in normal flow.
    every element has a default display value. However, you can override this.
    **display:none or visibility:hidden** 
    - `display :none` : hiding the elements , The element will be hidden, and the page will be displayed as if the element is        not there:
-`
+` - `visibility:hidden` : hides an element. the element will still take up the same space as before. The element will be          hidden, but still affect the layout:
 
