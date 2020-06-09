@@ -52,3 +52,24 @@ Happy learning :heart_eyes: :muscle:
 
 
 
+| #num     |    Content     |    Notes | 
+|----------|:-----------:|:----------:|
+| day 1    | HTML and JS           
+| day 2    |      Text       |            |
+| day 3    |      List       |            |
+| day 4    |      links       |            |
+| day 5    |      images       |            |
+| day 6    |      objects       |            |
+| day 7    |       tables      |            |
+| day 8    |    Forms           |            |
+| day 9    |      Layout       |            |
+| day 10   |       Debugging      |            |
+| day 11   |       local storage      |            |
+| day 12   |   advanced topic          |            |
+| day 13   |             |            |
+| day 14   |             |            |
+| day 15   |             |            |
+
+
+
+
