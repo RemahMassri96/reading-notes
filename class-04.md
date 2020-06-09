@@ -26,8 +26,6 @@ the page than the previous one. Even if you specify the width of the boxes and t
   2. `Relative Positioning` : This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed. This does not affect the position of surrounding elements; they stay in the position they would be in
 in normal flow.
   3. `Absolute positioning` :This positions the element in relation to its containing element
-  
-  
   #### The display property :
   The display property is the most important CSS property for controlling layout.
   `Display: none` : is commonly used with JavaScript to hide and show elements without deleting and recreating them.
@@ -38,6 +36,32 @@ in normal flow.
    - `display :none` : hiding the elements , The element will be hidden, and the page will be displayed as if the element is        not there
 ` - `visability:hidden;` : hides an element. the element will still take up the same space as before. The element will be          hidden, but still affect the layout
 
-    #####The position Property:
+    ####The position Property:
     The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
+   
+- position: static;
+HTML elements are positioned static by default. 
+Static positioned elements are not affected by the top, bottom, left, and right properties.
+An element with position: static; is not positioned in any special way; it is always positioned according to the normal flow of the page
+
+- position: relative;
+An element with position: relative; is positioned relative to its normal position.
+
+- position: fixed;
+An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element.
+
+A fixed element does not leave a gap in the page where it would normally have been located.
+
+- position: absolute;
+An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
+
+- position: sticky;
+An element with position: sticky; is positioned based on the user's scroll position.
+
+A sticky element toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed)
+
+**Overlapping Elements** :
+When elements are positioned, they can overlap other elements.
+
+The z-index property specifies the stack order of an element (which element should be placed in front of, or behind, the others).
 
