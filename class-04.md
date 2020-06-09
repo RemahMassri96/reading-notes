@@ -38,3 +38,6 @@ in normal flow.
    - `display :none` : hiding the elements , The element will be hidden, and the page will be displayed as if the element is        not there
 ` - `visability:hidden;` : hides an element. the element will still take up the same space as before. The element will be          hidden, but still affect the layout
 
+    #####The position Property:
+    The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
+
