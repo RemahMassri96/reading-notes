@@ -66,9 +66,9 @@ Happy learning :heart_eyes: :muscle:
 | day 10   |       Debugging      |            |
 | day 11   |       local storage      |            |
 | day 12   |   advanced topic          |            |
-| day 13   |             |            |
-| day 14   |             |            |
-| day 15   |             |            |
+| day 13   |    css transation         |            |
+| day 14   |       teams      |            |
+| day 15   |       -      |            |
 
 
 
