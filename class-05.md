@@ -1,5 +1,5 @@
 
-#Reading Notes (class 05)
+# Reading Notes (class 05)
 
 A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one.
 
